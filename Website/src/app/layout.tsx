@@ -13,8 +13,8 @@ const interTight = Inter_Tight({
 });
 
 export const metadata: Metadata = {
-  title: "Gray Clone",
-  description: "Clean, deobfuscated Gray website clone in Next.js",
+  title: "Cheetah",
+  description: "Cheetah is a lightweight system monitor for macOS.",
 };
 
 export default function RootLayout({
