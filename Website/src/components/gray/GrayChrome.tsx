@@ -59,7 +59,7 @@ export function GraySiteHeader({ activeLink }: GraySiteHeaderProps) {
               </a>
             </li>
             <li>
-              <a href="https://github.com/Shaarav4795/Cheetah" className="gray-button-primary text-sm">
+              <a href="https://github.com/Shaarav4795/Cheetah/releases/download/v1.0.0/Cheetah.1.0.dmg.zip" className="gray-button-primary text-sm">
                 Download
               </a>
             </li>

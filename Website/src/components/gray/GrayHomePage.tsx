@@ -255,7 +255,7 @@ export function GrayHomePage() {
                 Real-time CPU and memory monitoring for macOS. Watch your system performance through animated characters that react to your Mac's activity.
               </p>
               <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
-                <a href="https://github.com/Shaarav4795/Cheetah" className="gray-button-primary w-full sm:w-auto">
+                <a href="https://github.com/Shaarav4795/Cheetah/releases/download/v1.0.0/Cheetah.1.0.dmg.zip" className="gray-button-primary w-full sm:w-auto">
                   Download Now
                 </a>
                 <a href="#features" className="gray-button-secondary w-full sm:w-auto">
@@ -483,7 +483,7 @@ export function GrayHomePage() {
               </p>
 
               <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
-                <a href="https://github.com/Shaarav4795/Cheetah" className="gray-button-primary w-full sm:w-auto">
+                <a href="https://github.com/Shaarav4795/Cheetah/releases/download/v1.0.0/Cheetah.1.0.dmg.zip" className="gray-button-primary w-full sm:w-auto">
                   Download Cheetah
                 </a>
                 <a href="https://github.com/Shaarav4795/Cheetah" className="gray-button-secondary w-full sm:w-auto">
